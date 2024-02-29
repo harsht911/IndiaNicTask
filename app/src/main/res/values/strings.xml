@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IndiaNicTask</string>
+    <string name="weather_app">Weather App</string>
+    <string name="str_enable">Enable</string>
+    <string name="str_cancel">Cancel</string>
+    <string name="confirm_location">Confirm Location</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_current_location">Your current location</string>
+</resources>
